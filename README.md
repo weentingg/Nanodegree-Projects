@@ -1,6 +1,6 @@
-# Nanodegree-Projects
-Udacity Front-End Developer Nanodegree Projects
+#Front-End Developer Project 1
+#Portfolio
 
 Hello World!
 
-Practicing using GitHub!
+This is my first craft of my own portfolio work.
